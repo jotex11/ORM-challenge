@@ -7,7 +7,7 @@ Module 13 E-commerce challenge
 
 *[Task](#task)
 
-*[Screenshots](#screenshots)
+*[Walkthrough](#walkthrough)
 
 *[Credits](#credits)
 
@@ -16,13 +16,20 @@ Module 13 E-commerce challenge
 *[Links](#links)
 
 ## Description
+This is an application that is a back-end e-commerce site
 
 ## Task
+Challenge for this module was to make Sequilize interact with a MySQL database with the starter code given. 
 
-## Screenshots
+## Walkthrough
 
 ## Credits
+I used resources like Stack Overflow and Modzilla to help me get a better understanding of what I was working with. 
 
 ## License
+This application is under the MIT license. 
 
 ## Links 
+[Github Repo](https://github.com/jotex11/ORM-challenge)
+
+[Walkthrough Video]()
