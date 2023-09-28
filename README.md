@@ -24,7 +24,7 @@ Challenge for this module was to make Sequilize interact with a MySQL database w
 ## Walkthrough
 [Link to walkthrough video](https://watch.screencastify.com/v/HwvaWRREJa30bVe2bIQ8)
 ## Credits
-I used resources like Stack Overflow and Modzilla to help me get a better understanding of what I was working with. 
+I used resources like Stack Overflow and Modzilla to help me get a better understanding of what I was working with. I also got help from my instructor in office hours to figure out seed file problem. 
 
 ## License
 This application is under the MIT license. 
